@@ -1,0 +1,21 @@
+body{
+  background-color: #0000aa;
+  color: #ffffff;
+  margin: 20%;
+  font-family: "Verdana", sans-serif;
+}
+
+.header{
+  color: #0000aa;
+  background-color: #ffffff;
+  text-align: center;
+}
+
+code{
+  color: #0000aa;
+  background-color: #ffffff;
+}
+
+.center{
+  text-align: center;
+}
